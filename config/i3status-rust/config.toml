@@ -1,0 +1,10 @@
+[theme]
+name = "native"
+
+[icons]
+name = "awesome5"
+
+[[block]]
+block = "time"
+format = "%d'%m %R"
+interval = 60
